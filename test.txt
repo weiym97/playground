@@ -1,1 +1,1 @@
-We commit another test.txt file to the main branch
+"We try to add a new test.txt file and commit it to testing branch"
